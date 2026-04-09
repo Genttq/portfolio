@@ -14,7 +14,7 @@ export default function About() {
           <div className={styles.grid}>
             <div className={styles.imgWrap}>
               <img
-                src="/assets/profile.jpeg"
+                src="/assets/Profile-pic.jpeg"
                 alt="Gentrit Qorri"
                 className={styles.img}
                 onError={(e) => {
